@@ -23,11 +23,11 @@ Current Progress
  Detect control characters -
 
  remain :
- Handle escape sequences
- Cursor movement
- Screen rendering
- Text buffer
- File saving
+ Handle escape sequences,
+ Cursor movement,
+ Screen rendering,
+ Text buffer,
+ File saving,
  Syntax highlighting
 
 Current Demo
@@ -36,8 +36,8 @@ The current version reads keyboard input directly from the terminal and prints A
 
 Example:
 
-97('a')
-113('q')
+97('a'),
+113('q'),
 127
 
 Press q to exit.
